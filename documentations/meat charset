@@ -1,0 +1,11 @@
+The "meta charset" is an HTML tag that specifies the character encoding used for a web page. It is used to ensure that the browser displays the text content of a web page correctly, especially when the page contains non-ASCII characters such as accented letters or special symbols.
+
+The meta charset tag is typically placed in the head section of an HTML document and looks like this:
+
+<head>
+  <meta charset="UTF-8">
+  ...
+</head>
+In the example above, the "UTF-8" encoding is specified as the character set for the web page. UTF-8 is a widely used character encoding that supports a wide range of characters, including those used in most languages around the world.
+
+By specifying the correct character encoding for a web page, the meta charset tag helps ensure that the content is displayed correctly and is accessible to all users, regardless of their language or region.
